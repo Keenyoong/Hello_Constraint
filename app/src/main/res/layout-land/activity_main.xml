@@ -21,15 +21,14 @@
 
     <TextView
         android:id="@+id/show_count"
-        android:layout_width="283dp"
-        android:layout_height="223dp"
+        android:layout_width="578dp"
+        android:layout_height="226dp"
         android:layout_below="@+id/button_toast"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_marginStart="120dp"
         android:layout_marginLeft="120dp"
         android:layout_marginTop="-50dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
         android:background="#FFFF00"
         android:gravity="center"

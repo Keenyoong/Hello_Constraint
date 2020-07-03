@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.example.hello_toast"
+        applicationId "com.example.hello_constraint"
         minSdkVersion 27
         targetSdkVersion 30
         versionCode 1
